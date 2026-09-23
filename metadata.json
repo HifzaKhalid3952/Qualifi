@@ -1,0 +1,6 @@
+{
+  "name": "Qualifi - Regulated Qualifications Portal",
+  "description": "Explore Ofqual-accredited regulated qualifications, vocational pathways, RQF level progression, and specifications across Business, IT, Health, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
